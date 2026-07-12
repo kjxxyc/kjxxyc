@@ -1,4 +1,4 @@
-<h1 align="center">Kevin Icabalzeta</h1>
+<h1 align="center">Ing. Kevin Icabalzeta</h1>
 <h3 align="center">Chief Technology Officer (CTO) | Enterprise AI & Cloud Architect</h3>
 
 <p align="center">
