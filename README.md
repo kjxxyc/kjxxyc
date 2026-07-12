@@ -1,8 +1,8 @@
-<h1 align="center">Kevin Jr. Icabalzeta Amador</h1>
+<h1 align="center">Kevin Icabalzeta</h1>
 <h3 align="center">Chief Technology Officer (CTO) | Enterprise AI & Cloud Architect</h3>
 
 <p align="center">
-  Estratega tecnológico con más de 8 años de experiencia escalando plataformas de misión crítica en los sectores retail y salud. Alineo la infraestructura técnica con los objetivos financieros del negocio: estructuro equipos de alto rendimiento, diseño arquitecturas Cloud seguras y ejecuto integraciones de IA con impacto operativo medible.
+  Estratega tecnológico con más de 8 años de experiencia escalando plataformas de misión crítica en diferentes los sectores. Alineo la infraestructura técnica con los objetivos financieros del negocio: estructuro equipos de alto rendimiento, diseño arquitecturas Cloud y ejecuto integraciones de IA con impacto operativo.
 </p>
 
 <div align="center">
