@@ -1,8 +1,8 @@
-<h1 align="center">Ing. Kevin Jr. Icabalzeta A.</h1>
+<h1 align="center">Kevin Jr. Icabalzeta Amador</h1>
 <h3 align="center">Chief Technology Officer (CTO) | Enterprise AI & Cloud Architect</h3>
 
 <p align="center">
-  Estratega tecnológico con más de 8 años de experiencia escalando plataformas de misión crítica en los sectores retail y salud[cite: 2]. Alineo la infraestructura técnica con los objetivos financieros del negocio: estructuro equipos de alto rendimiento, diseño arquitecturas Cloud seguras y ejecuto integraciones de IA con impacto operativo medible[cite: 2].
+  Estratega tecnológico con más de 8 años de experiencia escalando plataformas de misión crítica en los sectores retail y salud. Alineo la infraestructura técnica con los objetivos financieros del negocio: estructuro equipos de alto rendimiento, diseño arquitecturas Cloud seguras y ejecuto integraciones de IA con impacto operativo medible.
 </p>
 
 <div align="center">
@@ -15,18 +15,18 @@
 
 ## ⚙️ Visión Ejecutiva & Core Tech
 
-*   **Dirección de Ingeniería:** Liderazgo de *squads* ágiles (SCRUM), definición de cultura técnica (Clean Code, SOLID) y optimización del ciclo de entrega[cite: 2].
-*   **Arquitectura & Seguridad:** Diseño de ecosistemas de alta disponibilidad bajo el estándar *Security-by-Default* en Microsoft Azure (B2C AD, App Services)[cite: 2].
-*   **Transformación con IA:** Orquestación estratégica de modelos generativos (OpenAI, Claude API) para automatización de procesos y toma de decisiones[cite: 2].
-*   **Stack Fundacional:** Ecosistemas Microsoft (.NET Core, C#), Angular 20+, y arquitectura de bases de datos de alto rendimiento (SQL Server / Oracle / NoSQL)[cite: 2].
+*   **Dirección de Ingeniería:** Liderazgo de *squads* ágiles (SCRUM), definición de cultura técnica (Clean Code, SOLID) y optimización del ciclo de entrega.
+*   **Arquitectura & Seguridad:** Diseño de ecosistemas de alta disponibilidad bajo el estándar *Security-by-Default* en Microsoft Azure (B2C AD, App Services).
+*   **Transformación con IA:** Orquestación estratégica de modelos generativos (OpenAI, Claude API) para automatización de procesos y toma de decisiones.
+*   **Stack Fundacional:** Ecosistemas Microsoft (.NET Core, C#), Angular 20+, y arquitectura de bases de datos de alto rendimiento (SQL Server / Oracle / NoSQL).
 
 ---
 
 ## 🚀 Impacto y Liderazgo Corporativo
 
-*   **AM PM Centroamérica | Senior Tech Lead & Architect:** Dirijo la arquitectura integral y estandarización de código para plataformas retail de alta concurrencia. Lidero la implementación de IA corporativa y despliegues seguros en ecosistemas Azure[cite: 2].
-*   **Consultoría Independiente | Soluciones B2B:** Modernización de arquitecturas empresariales, diseño de APIs RESTful escalables y optimización de infraestructuras de datos[cite: 2].
-*   **PLENUS Nicaragua | Lead Engineer & DBA:** Lideré equipos de desarrollo en la construcción y afinamiento de bases de datos para sistemas ERP críticos transaccionales[cite: 2].
+*   **AM PM Centroamérica | Senior Tech Lead & Architect:** Dirijo la arquitectura integral y estandarización de código para plataformas retail de alta concurrencia. Lidero la implementación de IA corporativa y despliegues seguros en ecosistemas Azure.
+*   **Consultoría Independiente | Soluciones B2B:** Modernización de arquitecturas empresariales, diseño de APIs RESTful escalables y optimización de infraestructuras de datos.
+*   **PLENUS Nicaragua | Lead Engineer & DBA:** Lideré equipos de desarrollo en la construcción y afinamiento de bases de datos para sistemas ERP críticos transaccionales.
 
 <br>
 <p align="center">
